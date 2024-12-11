@@ -3,7 +3,7 @@
 %define devname %mklibname jaylink -d
 
 Name: libjaylink
-Version: 0.3.1
+Version: 0.4.0
 Release: 1
 Source0: https://gitlab.zapb.de/libjaylink/libjaylink/-/archive/%{version}/libjaylink-%{version}.tar.bz2
 Summary: Library for accessing SEGGER J-Link and compatible devices
